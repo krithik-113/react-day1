@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-day1/static/css/main.5f0ed4d6.css",
+    "main.js": "/react-day1/static/js/main.ab08cebb.js",
+    "index.html": "/react-day1/index.html",
+    "main.5f0ed4d6.css.map": "/react-day1/static/css/main.5f0ed4d6.css.map",
+    "main.ab08cebb.js.map": "/react-day1/static/js/main.ab08cebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0ed4d6.css",
+    "static/js/main.ab08cebb.js"
+  ]
+}
