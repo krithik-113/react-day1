@@ -1,8 +1,10 @@
 import Premium from "./premium/Premium";
 
+
 function App() {
   const plan = ["FREE", "PLUS", "PRO"];
   const price = [0, 9, 49];
+  
   const benefits = [
     "Single User",
     "50GB Storage",
@@ -13,9 +15,11 @@ function App() {
     "Free Subdomain",
     "Monthly Status Reports",
   ];
+  
   return (
     <div className="App">
-      <Premium key={price[0]}
+      <Premium
+        key={price[0]}
         plan={plan[0]}
         price={price[0]}
         benefits={benefits}

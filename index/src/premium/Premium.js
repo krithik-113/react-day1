@@ -4,6 +4,8 @@ import { TiTick } from "react-icons/ti";
 import { RxCross2 } from "react-icons/rx";
 
 const Premium = ({ plan, price, benefits }) => {
+  
+  
   return (
     <div>
       <header>
